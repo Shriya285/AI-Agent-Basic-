@@ -1,0 +1,18 @@
+--- Research Output ---
+Timestamp: 2026-10-21 15:44:45
+
+Topic: AI Agents
+
+Summary: An AI agent is an artificial intelligence program that can make decisions, perceive its environment, and take actions to achieve specific goals. AI agents range from simple rule-based systems to adaptive learning models. They operate autonomously with minimal human intervention and are used in assistants, automation, and robotics.
+
+Key points:
+- Definition: Software systems that use AI to pursue goals and complete tasks on behalf of users (Google Cloud).
+- Core loop: Perceive the environment, make decisions, and act to achieve goals.
+- Types: Simple reflex agents, goal-based agents, and learning agents.
+- Capabilities: Autonomous operation, access to data, interaction with applications and APIs, and reasoning.
+- Applications: Virtual assistants, business process automation, robotics, and no-code agent building for busywork reduction.
+
+Sources:
+- Wikipedia, "AI agent" article
+- Web search results: AI agent definitions and type overviews (Google Cloud and other industry explainers)
+
